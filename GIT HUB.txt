@@ -1,0 +1,17 @@
+git init
+git status
+git add .
+git commit -m "Nome da att"
+git push
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin link
+git push -u origin main
+
+git config --global user.email "email"
+git config --global user.name "nome"
+
